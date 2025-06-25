@@ -1,0 +1,3 @@
+D:/Documents/c++/SA/out/build/x64-Debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate.dir
+D:/Documents/c++/SA/out/build/x64-Debug/_deps/freetype-subbuild/CMakeFiles/edit_cache.dir
+D:/Documents/c++/SA/out/build/x64-Debug/_deps/freetype-subbuild/CMakeFiles/rebuild_cache.dir

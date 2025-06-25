@@ -1,0 +1,14 @@
+# Target labels
+ ogg-populate
+# Source files and their labels
+D:/Documents/c++/SA/out/build/x64-Debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate
+D:/Documents/c++/SA/out/build/x64-Debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate.rule
+D:/Documents/c++/SA/out/build/x64-Debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete.rule
+D:/Documents/c++/SA/out/build/x64-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build.rule
+D:/Documents/c++/SA/out/build/x64-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure.rule
+D:/Documents/c++/SA/out/build/x64-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download.rule
+D:/Documents/c++/SA/out/build/x64-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install.rule
+D:/Documents/c++/SA/out/build/x64-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir.rule
+D:/Documents/c++/SA/out/build/x64-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch.rule
+D:/Documents/c++/SA/out/build/x64-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test.rule
+D:/Documents/c++/SA/out/build/x64-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update.rule
